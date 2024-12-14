@@ -23,8 +23,10 @@ function App() {
         <div className="categoria">
           <h2 className="nomeCategoria">Categoria 3</h2>
           <Produto/>
+          <p>Mais umaaaaaaa</p>
           <Produto/>
           <Produto/>
+          <p>Olha que descrição cabulosa!!!</p>
         </div>
       </div>
     </>
