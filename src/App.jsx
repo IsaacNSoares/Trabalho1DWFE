@@ -25,6 +25,7 @@ function App() {
           <Produto/>
           <Produto/>
           <Produto/>
+          <p>Olha que descrição cabulosa!!!</p>
         </div>
       </div>
     </>
